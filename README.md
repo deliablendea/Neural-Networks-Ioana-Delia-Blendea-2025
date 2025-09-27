@@ -25,8 +25,9 @@ Repository for the Neural Networks laboratory, "Alexandru Ioan Cuza" University,
 
 ## Table of contents
 
-* [Lab01](./Lab01) (Homework 1: Solve linear system)
-* [Lab02](./Lab02) (Homework 2: Perceptron implementation)
+* [Lab01](./Lab01)
+* [Lab01](./Lab02) (Homework 1: Solve linear system)
+* [Lab02](./Lab03) (Homework 2: Perceptron implementation)
 
 
 ## [2024 archive](https://github.com/Tensor-Reloaded/Neural-Networks-Template-2024)

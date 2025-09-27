@@ -1,17 +1,16 @@
 ## Lab 2
 
-Numpy + linear algebra
+### Numpy + Linear Algebra
+
+* [Lab02.ipynb](./Lab02.ipynb)
 
 ***
-Lab Resources: 
-* [NumpyExcercises.ipynb](./NumpyExcercises.ipynb)
-
-***
-Homework 2:
-- [Statement](./Assignment2.pdf)
+Homework 1:
+- [Statement](https://drive.google.com/file/d/1ox2n3n8kmjxGE2Z-MulJIAP2GMqqaWSh/view)
+- [Notebook](Assignment1.ipynb)
 
 ***
 For self-study (all students):
-* [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) (derivatives; chain rule)
+* [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (linear transformations; matrix multiplication)
 
 ***
