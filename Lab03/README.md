@@ -1,9 +1,6 @@
 ## Lab 3
 
 
-***
-Lab Resources: 
-* [NumpyExcercises.ipynb](./NumpyExcercises.ipynb)
 
 ***
 Homework 2:

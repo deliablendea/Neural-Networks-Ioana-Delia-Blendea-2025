@@ -2,7 +2,9 @@
 
 ### Numpy + Linear Algebra
 
-* [Lab02.ipynb](./Lab02.ipynb)
+***
+Lab Resources: 
+* [NumpyExcercises.ipynb](./NumpyExcercises.ipynb)
 
 ***
 Homework 1:

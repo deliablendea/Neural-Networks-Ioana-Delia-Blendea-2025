@@ -1,6 +1,10 @@
 ## Lab 1
 
-Setup Python + Jupyter Notebooks
+### Setup
+
+***
+Lab Resources: 
+* [Lab01.ipynb](./Lab01.ipynb)
 
 ***
 For self-study (all students):
