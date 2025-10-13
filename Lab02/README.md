@@ -10,6 +10,7 @@ Lab Resources:
 Homework 1:
 - [Statement](https://drive.google.com/file/d/1ox2n3n8kmjxGE2Z-MulJIAP2GMqqaWSh/view)
 - [Notebook](Assignment1.ipynb)
+- Deadline: Submit the assignment before Lab 3.
 
 ***
 For self-study (all students):
